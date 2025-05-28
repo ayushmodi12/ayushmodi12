@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Ayush!
 # 💫 About Me:
 🔭 I’m currently working on Ripplica AI, an early stage deep-tech AI startup.<br>⚡ I’m an upcoming SDE at Zomato (Eternal)<br>🤝 I’ve a keep interest and want to get better at Competitive Programming.<br>🌱 I graduated from IIT Gandhinagar with a degree in Computer Science.
 
@@ -16,13 +16,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayushmodi12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayushmodi12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayushmodi12&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ayushmodi12&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
