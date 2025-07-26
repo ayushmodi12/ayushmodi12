@@ -1,9 +1,17 @@
-## Hi there 👋, I'm Ayush!
+## Hi there, I'm Ayush!
 
 Trust you're doing well.
 
-# 💫 A bit 'bout me:
-🔭 I’m currently working on Ripplica AI, an early stage deep-tech AI startup.<br>⚡ I’m an upcoming SDE at Zomato (Eternal)<br>🤝 I’ve a keep interest and want to get better at Competitive Programming.<br>🌱 I graduated from IIT Gandhinagar with a degree in Computer Science.
+# A bit 'bout me:
+<!-- 🔭 I’m currently working on Ripplica AI, an early stage deep-tech AI startup.<br>
+⚡ I’m an upcoming SDE at Zomato (Eternal)<br>
+🤝 I’ve a keep interest and want to get better at Competitive Programming.<br>
+🌱 I graduated from IIT Gandhinagar with a degree in Computer Science. !-->
+
+⚡ Currently working as an SDE at Zomato.<br>
+🔭 Ex-Founder's Office @ Ripplica AI, an Agentic AI startup ($2M val).<br>
+🤝 Have a keep interest and want to get better at Competitive Programming.<br>
+🌱 Graduated from IIT Gandhinagar with a degree in Computer Science.
 
 
 ## 🌐 Socials:
